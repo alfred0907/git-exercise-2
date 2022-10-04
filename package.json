@@ -1,0 +1,23 @@
+{
+  "name": "git-exercise-2",
+  "version": "1.0.0",
+  "description": "JavaScript and NPM modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfred0907/git-exercise-2.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "John Alfred Velasco",
+    "email": "johnalfred.velasco@siteminder.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfred0907/git-exercise-2/issues"
+  },
+  "homepage": "https://github.com/alfred0907/git-exercise-2#readme"
+}
